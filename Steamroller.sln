@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steamroller", "Steamroller\Steamroller.csproj", "{8C560E55-DC6B-4976-AD7B-16C96242B7AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamrollerSkipCutscene", "SteamrollerSkipCutscene\SteamrollerSkipCutscene.csproj", "{B24EE32E-F432-4F96-B998-C9BC3021FF35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C560E55-DC6B-4976-AD7B-16C96242B7AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C560E55-DC6B-4976-AD7B-16C96242B7AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C560E55-DC6B-4976-AD7B-16C96242B7AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C560E55-DC6B-4976-AD7B-16C96242B7AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24EE32E-F432-4F96-B998-C9BC3021FF35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24EE32E-F432-4F96-B998-C9BC3021FF35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24EE32E-F432-4F96-B998-C9BC3021FF35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24EE32E-F432-4F96-B998-C9BC3021FF35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF697CE8-9231-4783-87B8-C82CE9C2DE38}
+	EndGlobalSection
+EndGlobal

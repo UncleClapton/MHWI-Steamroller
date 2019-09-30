@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Steamroller": {
+      "commandName": "Executable",
+      "executablePath": "H:\\MonHunRes\\MHW PS4\\Steamroller\\PS4Macro.exe"
+    }
+  }
+}
