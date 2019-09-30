@@ -44,7 +44,8 @@ By default, your controller **MUST NOT** be connected to your PC when PS4Macro i
 ```
 <EmulateController>true</EmulateController>
 ```
-Note that you still can't use your controller while the script is running, but your controller can remain connected and can be used whenenver the script is stopped.
+There are limitations to both choices here. Read more about limitations below.
+
 
 
 If you want to skip cutscenes while running steamworks, replace:
@@ -76,4 +77,4 @@ You're welcome.
 
 ## Limitations
 * Since you cannot have a controller on the same user as a remote play user, leaving controller emulation on means that there is no way to control the game while the script is running. For the most of us who don't play through Remote Play, this is fine. Just reconnect your controller to the PS4 when you're done, and the ps4 will, in turn, disconnect Remote Play.
-* If you turn off controller emulation, your PS4 controller must always be connected to your PC while the script is running.
+* If you turn off controller emulation, your PS4 controller must always be connected to your PC while the script is running, even though it cannot be used to control the game while the script is running.
